@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938412451558",
+    "project_id": "gasmonitor-ac253",
+    "storage_bucket": "gasmonitor-ac253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938412451558:android:f2412d537eea052aabfd27",
+        "android_client_info": {
+          "package_name": "com.example.gasmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938412451558-dqiof5ilo48lv2uv87h7sv462mglq179.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3jNx2yRla0oP4LkM88P_AXzStI7Pn4cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938412451558-dqiof5ilo48lv2uv87h7sv462mglq179.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
